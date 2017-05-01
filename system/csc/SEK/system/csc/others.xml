@@ -1,0 +1,16 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeauture>
+  <Version>ED001</Version>
+  <Country>UKRAINE</Country>
+  <CountryISO>UA</CountryISO>
+  <SalesCode>SEK</SalesCode>
+  <FeatureSet>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
+    <CscFeature_Launcher_TotalPageCount>2</CscFeature_Launcher_TotalPageCount>
+    <CscFeature_Launcher_DefaultPageNumber>0</CscFeature_Launcher_DefaultPageNumber>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart</CscFeature_SmartManager_ConfigSubFeatures>
+	<CscFeature_Contact_FullCountryPrefixSearchSupport>TRUE</CscFeature_Contact_FullCountryPrefixSearchSupport>
+  </FeatureSet>
+</SamsungMobileFeauture>

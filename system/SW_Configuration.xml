@@ -1,0 +1,16 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-J500H</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>J500HOXE</CSCName>
+	<CSCVersion>1APC2</CSCVersion>
+	<NbCustomer>5</NbCustomer>
+	<CustomerData src="/Customer/SER/customer.xml" />
+	<CustomerData src="/Customer/SEK/customer.xml" />
+	<CustomerData src="/Customer/CAC/customer.xml" />
+	<CustomerData src="/Customer/SKZ/customer.xml" />
+	<CustomerData src="/Customer/CAU/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>

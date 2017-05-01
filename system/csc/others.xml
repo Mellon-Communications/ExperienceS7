@@ -1,0 +1,44 @@
+﻿<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeauture>
+  <Version>ED001</Version>
+  <Country>RUSSIA</Country>
+  <CountryISO>RU</CountryISO>
+  <SalesCode>SER</SalesCode>
+  <FeatureSet>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
+    <CscFeatureRILSetDefaultTimezoneWithoutNITZ>TRUE</CscFeatureRILSetDefaultTimezoneWithoutNITZ>
+    <CscFeature_Contact_FullCountryPrefixSearchSupport>TRUE</CscFeature_Contact_FullCountryPrefixSearchSupport>
+	<CscFeature_Contact_LimitNameLength>128</CscFeature_Contact_LimitNameLength>
+	<CscFeature_Contact_EnableCallButtonInList>true</CscFeature_Contact_EnableCallButtonInList>	
+    <CscFeature_Setting_UninstallablePackageListInHidden>com.samsung.docapp</CscFeature_Setting_UninstallablePackageListInHidden>	
+    <CscFeature_Camera_CameraFlicker>50hz</CscFeature_Camera_CameraFlicker>
+	<CscFeature_Camera_EnableCameraDuringCall>FALSE</CscFeature_Camera_EnableCameraDuringCall>
+	<CscFeature_Camera_ShutterSoundMenu>true</CscFeature_Camera_ShutterSoundMenu> 
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+	<CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+	<CscFeature_Common_EnablePhoneNumberFormatting>false</CscFeature_Common_EnablePhoneNumberFormatting>
+	<CscFeature_VoiceCall_DisableToastPopupWhenMOConditionalCallForwarding>true</CscFeature_VoiceCall_DisableToastPopupWhenMOConditionalCallForwarding>
+	<CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_SIP_EnablePreferredEnglishTypeAsUS>TRUE</CscFeature_SIP_EnablePreferredEnglishTypeAsUS>
+    <CscFeature_Launcher_TotalPageCount>2</CscFeature_Launcher_TotalPageCount>
+    <CscFeature_Launcher_DefaultPageNumber>0</CscFeature_Launcher_DefaultPageNumber>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+	<CscFeature_Clock_EnableMenuAlarmAlertDuringSilentMode>true</CscFeature_Clock_EnableMenuAlarmAlertDuringSilentMode>
+	<CscFeature_Clock_EnableAutoPowerOnOffMenu>true</CscFeature_Clock_EnableAutoPowerOnOffMenu>
+	<CscFeature_VoiceCall_TotalCallTime>true</CscFeature_VoiceCall_TotalCallTime>
+	<CscFeature_Setting_DisableMenuSoftwareUpdate>true</CscFeature_Setting_DisableMenuSoftwareUpdate>
+	<CscFeature_Setting_EnableHwVersionDisplay>true</CscFeature_Setting_EnableHwVersionDisplay>
+	<CscFeature_Calender_EnableWeatherInfo>true</CscFeature_Calender_EnableWeatherInfo>
+	<CscFeature_Common_DisablePhoneNumberFormatting>true</CscFeature_Common_DisablePhoneNumberFormatting>
+	<CscFeature_Message_EnableFolderView>true</CscFeature_Message_EnableFolderView>
+	<CscFeature_Message_DisableSmsToMmsConversionByTextInput>true</CscFeature_Message_DisableSmsToMmsConversionByTextInput>
+	<CscFeature_Message_EnableSendingEmptySms>true</CscFeature_Message_EnableSendingEmptySms>
+	<CscFeature_Message_DisableLogs>true</CscFeature_Message_DisableLogs>
+	<CscFeature_Launcher_DisablePageRotation>false</CscFeature_Launcher_DisablePageRotation>
+	<CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+	<CscFeature_Common_EnablePhoneNumberFormatting>false</CscFeature_Common_EnablePhoneNumberFormatting>
+	<CscFeature_Sip_EnableSymbolInSecondary>en_US;ru;en_GB</CscFeature_Sip_EnableS>
+    <CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>TRUE</CscFeature_SystemUI_SupportDataUsageViewOnQuickPanel>
+  </FeatureSet>
+</SamsungMobileFeauture>
